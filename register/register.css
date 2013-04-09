@@ -1,0 +1,93 @@
+body
+{
+	background:BLACK url('loader.gif') no-repeat;
+	background-position:0px 0px;
+	background-size:150px 151px;
+}
+
+#container
+{
+position:relative;
+top:50%;
+margin-top:-250px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	width:600px;
+	height:500px;
+
+}
+
+table tr td
+{
+	color:white;
+	font-family:Kozuka Gothic Pr6N EL,'trebuchet MS'; 
+	padding:10px;
+
+}
+table
+{
+float:right;
+position:relative;
+width:600px;
+	height:500px;
+	border-color:#2183c5;
+	border-width:7px;
+	border-radius:20px;
+	border-style:solid;
+	padding:50px;
+	
+	margin-top:0px;
+	
+	font-size:1.1em;
+}
+
+input
+{	
+	background:BLACK;
+	border-color:#2183c5;
+	border-width:1px;
+	border-style:solid;
+	color:#2183c5;
+	height:30px;
+	width:200px;
+	color:white;
+}
+select
+{
+	background:BLACK;
+	color:#2183c5;
+	border-color:#2183c5;
+	border-width:1px;
+	border-style:solid;
+	height:30px;
+	width:200px;		
+}
+
+button
+{
+	background:#2183c5;
+	color:white;
+	border-color:#2183c5;
+	border-width:1px;
+	border-style:solid;
+	padding:10px 30px;
+	font-family:Kozuka Gothic Pr6N EL,'trebuchet MS'; 
+	font-size:1.1em;
+	border-radius:10px;
+}
+button:hover
+{
+	background:#2199cc;
+	color:black;
+	
+	cursor:pointer;
+	
+	}
+
+#load
+{
+	position:relative;
+	top:340px;
+	left:663px;
+}

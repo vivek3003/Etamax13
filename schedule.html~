@@ -1,0 +1,3 @@
+		<div id="day" onclick='showschedule(1)' style="background:url(images/day1.jpg) no-repeat;background-size:100% 100%;"></div>
+		<div id="day" onclick='showschedule(2)' style="background:url(images/day2.jpg);background-size:100% 100%;"></div>
+		<div id="day" onclick='showschedule(3)' style="background:url(images/day3.jpg);background-size:100% 100%;"></div>

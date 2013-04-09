@@ -1,0 +1,63 @@
+body
+{
+	background:BLACK;
+}
+
+#container
+{
+	margin-left:auto;
+	margin-right:auto;
+	//background:RED;
+	
+}
+
+table tr td
+{
+	color:#2183c5;
+	font-family:'trebuchet MS',Kozuka Gothic Pr6N EL; 
+	padding:15px;
+
+}
+table
+{
+	border-color:#2183c5;
+	border-width:9px;
+	border-style:solid;
+	padding:50px;
+	margin-left:auto;
+	margin-top:100px;
+	margin-right:auto;
+}
+
+input
+{	
+	background:BLACK;
+	border-color:#2183c5;
+	border-width:1px;
+	border-style:solid;
+	color:#2183c5;
+}
+select
+{
+	background:BLACK;
+	color:#2183c5;
+	border-color:#2183c5;
+	border-width:1px;
+	border-style:solid;		
+}
+
+button
+{
+	background:#2183c5;
+	color:BLACK;
+	border-color:#2183c5;
+	border-width:1px;
+	border-style:solid;
+}
+
+#load
+{
+	position:relative;
+	top:340px;
+	left:663px;
+}
